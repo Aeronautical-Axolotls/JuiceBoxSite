@@ -1,8 +1,6 @@
-# React + Vite
+# JuiceBox Release Webpage
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Deployment website for JuiceBox - Spilling Encouraged!
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Visit the [webpage](https://aeronautical-axolotls.github.io/JuiceBoxSite.github.io/)!
+- Visit the [Source](https://github.com/Aeronautical-Axolotls/JuiceBox) repo!
